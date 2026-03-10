@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Bedrock Mod AI",
+  "description": "Generate custom Minecraft Bedrock Add-ons using AI and export them as .mcaddon files.",
+  "requestFramePermissions": []
+}
